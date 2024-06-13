@@ -12,7 +12,7 @@ async fn main() {
 
     let kapital: u64 = 100000000 - 105000; // 0,1 SOL
 
-    let private_key_str: &str = "3Detg1HDHh4RgKmTJnZMUubatoxgWGm37wqPJ6kJLpbnQ9yfh1q7MHjRHCwvHMT7bcD6ZqT24P8ve9UGb4xmLpzH";
+    let private_key_str: &str = "1";
     let addresses: Vec<&str> = ["8wXtPeU6557ETkp9WHFY1n1EcU6NxDvbAggHGsMYiHsB"].to_vec();
     let rpc: &str = "http://localhost:8899";
 
